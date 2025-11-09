@@ -13,7 +13,6 @@
 - 🎧 I enjoy coding while listening to **Argentinian rock**  
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/santiago-mart%C3%ADnez-campero-a6723a387/)
 - 🌐 [Click here to see my Portfolio](#)
-
 <br/>
 
 ## 🧰 My Skills

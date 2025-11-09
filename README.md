@@ -15,7 +15,6 @@
 - 🌐 [Click here to see my Portfolio](#)
 
 <br/>
-<br />
 
 ## 🧰 My Skills
 

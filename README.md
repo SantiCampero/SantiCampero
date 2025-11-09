@@ -14,6 +14,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/santiago-mart%C3%ADnez-campero-a6723a387/)
 - 🌐 [Click here to see my Portfolio](#)
 
+
 ## 🧰 My Skills
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -33,9 +34,9 @@
 <img align="left" alt="vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"  />
 <img align="left" alt="stackoverflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" />
           
+<br/>
+<br/>
 <br />
-
-
 ## My Github Stats
 <table>
     <tr>

@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Santiago Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;I+am+Santiago+Martinez;I+am+a+University+student;FullStack+Dev;FrontEnd+Dev;AI+enthusiast+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Plan.+Code.+Debug.+Repeat.+Build.;FullStack+Dev+|+FrontEnd+Dev;AI+enthusiast+%3C3"></a>
 </p>
 
 ## 🎩 About Me

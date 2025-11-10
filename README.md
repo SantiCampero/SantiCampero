@@ -44,7 +44,7 @@
           <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
             <p align="center">
             <a href="https://github.com/SantiCampero">
-                <img src="https://github-readme-stats.vercel.app/api?username=SantiCampero&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+                <img src="https://github-readme-stats.vercel.app/api?username=SantiCampero&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
             </a>
             <p></p>
         </td>
@@ -52,9 +52,12 @@
           <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
             <p align="center">
             <a href="https://github.com/SantiCampero">
-                <img src="https://streak-stats.demolab.com/?user=SantiCampero&theme=nightowl" alt="Streak Stats" />
+                <img src="https://nirzak-streak-stats.vercel.app/?user=SantiCampero&theme=merko&hide_border=false" alt="Streak Stats" />
             </a>
             <p></p>
         </td>
     </tr>
 </table>
+
+  ## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=SantiCampero&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GithubTrophies"/>

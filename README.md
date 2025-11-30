@@ -14,7 +14,6 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/santiago-mart%C3%ADnez-campero-a6723a387/)
 - 🌐 [Click here to see my Portfolio](#)
 
-
 ## 🧰 My Skills
 
 <img align="left" alt="HTML" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
